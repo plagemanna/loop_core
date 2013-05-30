@@ -21,7 +21,7 @@
  * @file
  * @ingroup Skins
  */
-
+define("ANDRE","1");
 if( !defined( 'MEDIAWIKI' ) )
 	die( -1 );
 
